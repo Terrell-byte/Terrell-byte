@@ -12,10 +12,6 @@ I've built up a solid tech stack, so I'm comfortable jumping between C#, Docker,
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Terrell-byte&theme=dark&hide_border=false)<br/>
 
 
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Terrell-byte&icon=0&color=7)](https://visitcount.itsvg.in)
 
