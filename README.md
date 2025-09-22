@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm Daniel Sutton, and I'm deep into full stack .NET development and machine learning. I recently wrapped up an ML engineering internship where I got hands-on with Vision AI and dove into how AI systems work under the hood. Right now, I'm finishing my bachelor's thesis at DTU - focusing on latent space database architectures, which is pretty exciting stuff.
-I've built up a solid tech stack, so I'm comfortable jumping between C#, Docker, Rust, Python, and all the web dev tools you'd expect. The cool thing is getting to combine these different pieces when building AI-powered software solutions. My background as both a software developer and ML engineer means I'm really good at picking up new tech quickly and making different pieces work together. When you're working in tech, there's always something new to learn - and that's exactly how I like it.
+Hey there! I'm Daniel, a software engineer with a knack for AI, a love for solving real-world puzzles, and a belief that every tough challenge is just a series of small wins waiting to happen. I'm all about diving into new tech and growing every day. I've crafted machine learning models that do more than just crunch numbers,they help uncover patterns and tell stories hidden in data.
+
+I thrive in teams where everyone brings their own specialty and we can bounce ideas off each other without getting lost in endless meetings. I also like to keep things light, because good work happens when people actually enjoy working together. If you're looking for someone who's not just about ticking off skills but actually loves the journey of learning, innovating, and having a bit of fun along the way, let's chat.
 
 
 ## 🌐 Socials:
