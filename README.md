@@ -7,8 +7,4 @@ I thrive in teams where everyone brings their own specialty and we can bounce id
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danieltsutton) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Terrell_byte) 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Terrell-byte&theme=dark&hide_border=false)<br/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
